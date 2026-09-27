@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codex ReHome Skill"
+  short_description: "Verified Windows-to-Mac project and conversation migration"
+  default_prompt: "Use $codex-rehome to migrate my selected projects and conversations from Windows to macOS. Audit complete history dependencies, prove native readability, merge without replacing login/configuration, and verify local host/sidebar ownership."
+
+policy:
+  allow_implicit_invocation: true
